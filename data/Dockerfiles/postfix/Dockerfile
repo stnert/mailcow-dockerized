@@ -1,4 +1,4 @@
-FROM debian:11.6-slim
+FROM debian:bullseye-20230904-slim
 LABEL maintainer "Andre Peters <andre.peters@servercow.de>"
 
 ARG DEBIAN_FRONTEND=noninteractive
